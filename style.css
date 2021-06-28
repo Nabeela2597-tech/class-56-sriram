@@ -1,0 +1,19 @@
+hr{
+    width:100px;
+    height:5px;
+    background-color: gray;
+}
+body{
+    text-align: center;
+    background: linear-gradient(to left, greenyellow , yellow);
+    
+}
+
+#ig{
+    border:5px groove yellow;
+}
+p{
+    max-width: 550px;
+    margin: 10px auto;
+    text-align: justify;
+}
